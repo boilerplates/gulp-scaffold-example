@@ -1,4 +1,4 @@
-# gulp-scaffold-example [![NPM version](https://img.shields.io/npm/v/gulp-scaffold-example.svg)](https://www.npmjs.com/package/gulp-scaffold-example)
+# gulp-scaffold-example
 
 > This is an example of how to generate scaffolds with gulp (it's not a plugin!)
 
