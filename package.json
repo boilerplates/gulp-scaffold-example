@@ -1,0 +1,39 @@
+{
+  "name": "gulp-scaffold-example",
+  "description": "This is an example of how to generate scaffolds with gulp (it's not a plugin!)",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/gulp-scaffold-example",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/gulp-scaffold-example",
+  "license": "MIT",
+  "files": [],
+  "devDependencies": {
+    "async": "^1.5.1",
+    "gulp": "^3.9.0",
+    "gulp-template": "^3.1.0",
+    "scaffold": "^0.2.2"
+  },
+  "keywords": [
+    "example",
+    "gulp",
+    "scaffold"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "assemble",
+        "generate",
+        "gulp",
+        "scaffold",
+        "verb"
+      ]
+    },
+    "reflinks": [
+      "assemble",
+      "generate",
+      "gulp",
+      "scaffold",
+      "verb"
+    ]
+  }
+}
