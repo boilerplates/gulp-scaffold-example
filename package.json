@@ -34,6 +34,9 @@
       "gulp",
       "scaffold",
       "verb"
+    ],
+    "plugins": [
+      "gulp-format-md"
     ]
   }
 }
